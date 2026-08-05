@@ -1,14 +1,12 @@
 # Supply Chain Optimization & Analytics
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow.svg)](https://pandas.pydata.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange.svg)](https://tensorflow.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Viz-green.svg)](https://plotly.com/)
+<img width="1707" height="520" alt="image" src="https://github.com/user-attachments/assets/4de936cf-b78e-4ba7-b385-c676a7ee00ec" />
+<img width="1714" height="529" alt="image" src="https://github.com/user-attachments/assets/c6f87dcb-ec95-4e3d-9da6-15a4e2c897db" />
+<img width="1722" height="524" alt="image" src="https://github.com/user-attachments/assets/56929316-bf5d-4b53-b134-06762263b850" />
+<img width="1727" height="534" alt="image" src="https://github.com/user-attachments/assets/a2a745af-81b2-4f9b-b05d-3e1fd513e013" />
+<img width="1715" height="523" alt="image" src="https://github.com/user-attachments/assets/7883fc26-7fbc-47b4-b61a-92f70c489ccd" />
+<img width="1713" height="512" alt="image" src="https://github.com/user-attachments/assets/4d1fc13d-0262-42d3-b552-2c899c947d36" />
 
-An end-to-end **Supply Chain Analytics** project focused on risk assessment, inventory optimization, customer segmentation, lead time optimization, and predictive modeling using Machine Learning and Deep Learning.
-
----
 
 ## 📋 Project Overview
 
