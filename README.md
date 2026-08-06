@@ -86,12 +86,9 @@ This project analyzes a comprehensive supply chain dataset to extract actionable
 - **LightGBM** – Gradient Boosting
 - **TensorFlow / Keras** – Deep Learning
 - **Joblib** – Model Saving
+  
+  ## Dashboard
+<img width="1372" height="780" alt="image" src="https://github.com/user-attachments/assets/b6966def-9d48-4b4f-bb4d-f92239684385" />
+<img width="1312" height="774" alt="image" src="https://github.com/user-attachments/assets/e05a38be-4569-4eb6-826e-fe300bb98be7" />
+<img width="1347" height="776" alt="image" src="https://github.com/user-attachments/assets/ea680a0d-2a2a-41a5-b967-8e3d9eb1aa46" />
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/supply-chain-optimization.git
-   cd supply-chain-optimization
